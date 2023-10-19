@@ -54,7 +54,7 @@ class SolutionTrietree:
 if __name__ == '__main__':
     begin = time.time()
     trie = SolutionTrietree()
-    with open('Input_02.txt') as f:
+    with open('path/to/input/file.txt') as f:
         for line in f.readlines():
             trie.insertion(line.strip())
     longest, second_longest = trie.longest_compounded_word()
