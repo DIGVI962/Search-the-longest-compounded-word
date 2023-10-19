@@ -25,9 +25,9 @@
 </ul>
 
 <h1>Output</h1>
+
 <b>For Input_01.txt file:</b>
-<img src='https://github.com/DIGVI962/Search-the-longest-compounded-word/blob/main/Output_01.PNG'>
-Benchmarked time: 0.99754 milliseconds
+<img src='https://github.com/DIGVI962/Search-the-longest-compounded-word/blob/main/Output_01.PNG'>Benchmarked time: 0.99754 milliseconds
 <p></p>
 <b>For Input_02.txt file:</b><br>
 <img src='https://github.com/DIGVI962/Search-the-longest-compounded-word/blob/main/Output_02.PNG'>
