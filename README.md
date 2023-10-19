@@ -28,7 +28,7 @@
 <b>For Input_01.txt file:</b>
 <img src='https://github.com/DIGVI962/Search-the-longest-compounded-word/blob/main/Output_01.PNG'>
 Benchmarked time: 0.99754 milliseconds
-<br>
+<p></p>
 <b>For Input_02.txt file:</b><br>
-<img src='https://github.com/DIGVI962/Search-the-longest-compounded-word/blob/main/Output_02.PNG'><br>
+<img src='https://github.com/DIGVI962/Search-the-longest-compounded-word/blob/main/Output_02.PNG'>
 Benchmarked time: 1222.52867 milliseconds
