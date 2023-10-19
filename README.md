@@ -9,11 +9,11 @@
 </ul>
 
 <h1>Overview</h1>
-<h3>Problem Statement</h3>
+<h2>Problem Statement</h2>
 <p>Write a code to parse through a given input text file consisting of alphabetically sorted word list, with each word in a new line. After parsing through the list give the longest and the second longest compounded word along with the time took to process the file.</p>
 <p>A compounded word is a word that cab be created by combining shorter words in the same file or list.</p>
 
-<h3>Approach</h3>
+<h2>Approach</h2>
 <p>Considering this is a problem involving strings and their processing, I opted to utilize the Trie Data Structure, which is perfext for these kinds of operations on strings and substrings. My approach involved the following steps:</p>
 <ul>
   <li>Create a Trie Node class.</li>
@@ -28,7 +28,7 @@
 <b>For Input_01.txt file:</b>
 <img src='https://github.com/DIGVI962/Search-the-longest-compounded-word/blob/main/Output_01.PNG'>
 Benchmarked time: 0.99754 milliseconds
-
-<b>For Input_02.txt file:</b>
-<img src='https://github.com/DIGVI962/Search-the-longest-compounded-word/blob/main/Output_02.PNG'>
+<br>
+<b>For Input_02.txt file:</b><br>
+<img src='https://github.com/DIGVI962/Search-the-longest-compounded-word/blob/main/Output_02.PNG'><br>
 Benchmarked time: 1222.52867 milliseconds
